@@ -1,0 +1,4 @@
+VAR $counter,NUMERIC,10
+VAR $counter2,NUMERIC,5
+MUL $counter,$counter,$counter2
+OUT $counter
